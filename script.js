@@ -7,3 +7,4 @@ function changeImage() {
       img_container.src = "https://picsum.photos/200/300";
     }
   }
+  changeImage();
